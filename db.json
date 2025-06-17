@@ -1,0 +1,11 @@
+{
+  "missions": [
+    {
+      "id": "63f8",
+      "title": "Telegram",
+      "url": "https://t.me",
+      "type": "group",
+      "price": 1000
+    }
+  ]
+}
